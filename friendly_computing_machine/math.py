@@ -1,18 +1,17 @@
+
 """
 A small set of functions for doing math operations.
 """
 
-#Write a function named add that adds two values
-def add(A,B):
+def add(arg1, arg2):
     """
     Function that adds two arguements
     """
-    return 2 + 5
+    return arg1 + arg2
 
-#Write  function that multiplies two values 
-def mult(A,B):
+def mult(arg1, arg2):
     """
-    Function that multiplies two arguements
+    Function that multiplies two  arguements
     """
-    return 2 * 5
+    return arg1 * arg2
 
